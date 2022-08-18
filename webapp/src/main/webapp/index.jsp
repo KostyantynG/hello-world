@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Register for a FANTASTIC DevOps Course</h1>
-    <p>Fill in this bloody form to create an account.</p>
+    <h1>Register for a RIDICULOUS DevOps Course</h1>
+    <p>Kindly fill in this form to create an account.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
